@@ -2,7 +2,7 @@
 
 module.exports = function(environment) {
   var ENV = {
-    modulePrefix: 'ember-token-auth-test',
+    modulePrefix: 'ember-simple-auth-test-app',
     environment: environment,
     baseURL: '/',
     locationType: 'auto',
